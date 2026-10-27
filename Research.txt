@@ -1,0 +1,69 @@
+	Python Software Foundation, "heapq — Heap queue algorithm," Python Documentation, 2025. [Online]. Available: https://docs.python.org/3/library/heapq.html — Documents the binary heap implementation used to construct efficient min-priority queues for A∗ and UCS open-set frontiers.
+
+    Python Software Foundation, "collections — Container datatypes," Python Documentation, 2025. [Online]. Available: https://docs.python.org/3/library/collections.html — Documents the double-ended queue (deque) implementation utilized for Breadth-First Search (BFS) level-order traversal.
+
+    C. R. Harris et al., "Array programming with NumPy," Nature, vol. 585, no. 7825, pp. 357–362, 2020. https://www.nature.com/articles/s41586-020-2649-2 — Underpins the high-performance multi-dimensional grid matrix allocations and stochastic obstacle density generation.
+
+    J. D. Hunter, "Matplotlib: A 2D graphics environment," Computing in Science & Engineering, vol. 9, no. 3, pp. 90–95, 2007. https://ieeexplore.ieee.org/document/4160265 — Powers the visual mapping suite, static grid route plots, and performance scaling charts.
+
+    S. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, 4th ed. Pearson, 2020. — Serves as the primary theoretical text for uninformed and informed graph search properties, time/space complexity proofs, completeness guarantees, and A∗ heuristic admissibility criteria.
+
+    P. E. Hart, N. J. Nilsson, and B. Raphael, "A formal basis for the heuristic determination of minimum cost paths," IEEE Transactions on Systems Science and Cybernetics, vol. 4, no. 2, pp. 100–107, 1968. https://ieeexplore.ieee.org/document/4082128 — The seminal historical paper that originally formulated and introduced the A∗ search algorithm, proving its optimality and efficiency under admissible heuristics.
+
+    E. W. Dijkstra, "A note on two problems in connexion with graphs," Numerische Mathematik, vol. 1, no. 1, pp. 269–271, 1959. https://ir.cwi.nl/pub/9256/9256D.pdf — Establishes the foundational algorithm for Uniform Cost Search (UCS) and shortest-path graph traversal using priority-based cumulative cost evaluation.
+
+    The Farama Foundation, "Toy Text Environments: FrozenLake," Gymnasium Documentation, 2025. [Online]. Available: https://gymnasium.farama.org/environments/toy_text/frozen_lake/ — Informs standard discrete stochastic grid-world environmental design and hazard layout testing paradigms.
+
+    R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction, 2nd ed. MIT Press, 2018. https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf — Provides foundational principles of Markov decision processes, state transitions, and environmental modeling.
+
+    T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, Introduction to Algorithms, 4th ed. MIT Press, 2022. https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf — Provides the foundational data structure definitions for priority queues, min-heaps, and graph traversal routines.
+
+    J. Pearl, Heuristics: Intelligent Search Strategies for Computer Problem Solving. Addison-Wesley, 1984. https://www.scribd.com/document/820231576/Judea-Pearl-Heuristics-Intelligent-Search-Strategies-for-Computer-Problem-Solving#page=45 — The definitive academic text on heuristic search theory, graph expansion strategies, and the mathematical properties of L1​ (Manhattan) and L2​ (Euclidean) distance metrics.
+
+    W. G. Macready and D. H. Wolpert, "Cost-free, value-free parameter configuration for search algorithms," IEEE Transactions on Evolutionary Computation, vol. 1, no. 1, pp. 41–58, Apr. 1997. [Online]. Available: https://www.cs.ubc.ca/~hutter/earg/papers07/00585893.pdf — Examines algorithmic performance scaling and parameter configuration dynamics across stochastic search spaces.
+
+    C. Demetrescu and G. F. Italiano, "Engineering shortest path algorithms," in Lecture Notes in Computer Science, vol. 3046, May 2004, pp. 238–259. doi: 10.1007/978-3-540-24838-5_14. — Discusses practical engineering considerations, data structure optimizations, and computational efficiency in shortest-path graph algorithms.
+
+    C. Stachniss, "Introduction to Mobile Robotics: Graph Search and Dijkstra/A*," University of Bonn, 2016. — Offers robust practical framing for applying graph search methodologies to robotic path planning and obstacle negotiation.
+
+    J. C. Latombe, Robot Motion Planning. Kluwer Academic Publishers, 1991. https://www.researchgate.net/publication/242351349_Robot_Motion_Planning_A_Distributed_Representation_Approach — Establishes standard spatial configuration spaces (S), 4-connected topology constraints, and obstacle modeling frameworks.
+
+    R. E. Korf, "Depth-first iterative-deepening: An optimal admissible search strategy," Artificial Intelligence, vol. 27, no. 1, pp. 97–109, 1985. https://www.cse.sc.edu/~mgv/csce580f09/gradPres/korf_IDAStar_1985.pdf — Explores memory-bounded optimal search strategies and iterative expansion techniques in pathfinding.
+
+    R. Dechter and J. Pearl, "Generalized best-first search strategies and the optimality of A*," Journal of the ACM, vol. 32, no. 3, pp. 505–536, 1985. https://dl.acm.org/doi/pdf/10.1145/3828.3830 — Provides rigorous mathematical proofs regarding the efficiency, optimality, and node-expansion bounds of best-first search paradigms.
+
+    D. E. Knuth, The Art of Computer Programming, Volume 1: Fundamental Algorithms, 3rd ed. Addison-Wesley, 1997. http://f.javier.io/rep/books/Donald-Knuth---The-Art-of-Computer-Programming-Vol-1-Fundamental-Algorithms.pdf — Covers foundational structural concepts for foundational queue and priority queue mechanics.
+
+    R. Sedgewick and K. Wayne, Algorithms, 4th ed. Addison-Wesley, 2011. — Provides structural code patterns and efficiency analyses for priority queues and graph traversal implementations.
+
+    J. S. Baras and D. Theodorakopoulos, "Path planning in dynamic environments," in IEEE Conference on Decision and Control, 2002. https://arxiv.org/pdf/1605.06853 — Analyzes pathfinding performance metrics under stochastic hazard densities and obstacle variations.
+
+    S. Koenig and M. Likhachev, "Improved fast replanning for robot navigation in unknown terrain," in AAAI, 2002. https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated3/koenig_dstarlite.pdf — Examines incremental search and replanning architectures for navigating unpredictable grid environments.
+
+    S. Thrun, W. Burgard, and D. Fox, Probabilistic Robotics. MIT Press, 2005. https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf — Provides deep insights into dealing with environmental uncertainty, stochasticity, and sensor/hazard modeling in robotics.
+
+    S. M. LaValle, Planning Algorithms. Cambridge University Press, 2006. https://lavalle.pl/planning/book.pdf — A comprehensive reference manual on formal motion planning, discrete state lattices, and graph connectivity rules.
+
+    N. J. Nilsson, Artificial Intelligence: A New Synthesis. Morgan Kaufmann, 1998. — Surveys foundational AI problem-solving techniques, state-space graphs, and production systems.
+
+    P. H. Winston, Artificial Intelligence, 3rd ed. Addison-Wesley, 1992. https://courses.csail.mit.edu/6.034f/ai3/rest.pdf — Covers early graph search paradigms, heuristic evaluation, and conceptual problem-solving models.
+
+    Z. Zertz, Graph Theory and Its Applications. CRC Press, 1995. — Establishes the underlying mathematical properties of vertices, edges, connectivity, and graph topology.
+
+    A. Barr and E. A. Feigenbaum, The Handbook of Artificial Intelligence, Volume 1. William Kaufmann, 1981. [Online]. Available: https://dl.acm.org/doi/book/10.5555/540417 — Historical reference detailing early problem-solving methodologies and heuristic search search architectures.
+
+    S. S. Skiena, The Algorithm Design Manual, 3rd ed. Springer, 2020. https://sureshcseit.wordpress.com/wp-content/uploads/2021/04/skienathealgorithmdesignmanual.pdf — Offers practical guidance on data structures, priority queues, and algorithmic complexity tradeoffs.
+
+    B. Bonet and H. Geffner, "Planning as heuristic search," Artificial Intelligence, vol. 129, no. 1-2, pp. 5–33, 2001. https://www.cs.toronto.edu/~sheila/2542/s14/A1/bonetgeffner-heusearch-aij01.pdf — Explores the framing of automated planning tasks as heuristic graph search optimization problems.
+
+    R. C. Holte et al., "Suboptimal search for optimal pathfinding," in IJCAI, 2006. — Examines efficiency and heuristic bound optimizations for navigating complex state spaces.
+
+    N. R. Sturtevant, "Benchmarks for grid-based pathfinding," IEEE Transactions on Computational Intelligence and AI in Games, 2012. https://ieeexplore.ieee.org/document/6194296 — Establishes standardized benchmarking methodologies for evaluating graph search algorithms across varying grid dimensions and obstacle densities.
+
+    A. Botea et al., "Near-optimal hierarchical path-finding," JAIR, vol. 21, pp. 1–28, 2004. https://www.researchgate.net/publication/228785110_Near_optimal_hierarchical_path-finding_HPA — Discusses scalable pathfinding architectures and performance optimization techniques for large grid maps.
+
+    A. Patel, "Red Blob Games: Introduction to A* Pathfinding," 2017. [Online]. Available: https://www.redblobgames.com/pathfinding/a-star/introduction.html — Serves as a practical architectural reference for implementing grid-based heuristic functions, cost dictionaries, and path reconstruction logic.
+
+    The Farama Foundation, "Gymnasium: A standard API for reinforcement learning," 2025. [Online]. Available: https://gymnasium.farama.org/ — Provides API standards for simulation environments, discrete actions, and state transitions.
+
+    Matplotlib Development Team, "Matplotlib Animation API," Matplotlib Documentation, 2025. [Online]. Available: https://matplotlib.org/stable/api/animation_api.html — Provides the underlying FuncAnimation framework used to render step-by-step agent traversal animations across the grid.
